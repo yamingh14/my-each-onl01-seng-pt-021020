@@ -1,3 +1,4 @@
-def my_each(while)
-  # code here
+def my_each(arg)
+  while arg > 0
+
 end
